@@ -4,6 +4,8 @@ A tribute to the Dark Priests
 
 ## gallery
 
+[watch the video](https://fred1268.github.io/assets/nostalgia/video.mp4)
+
 screenshot #1
 <p align="center">
   <img style="float: right;" src="https://github.com/fred1268/assets/blob/development/nostalgia/screenshot01.png" alt="Nostalgia #1"/>
