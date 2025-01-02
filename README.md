@@ -4,7 +4,7 @@ A tribute to the Dark Priests
 
 ## gallery
 
-https://fred1268.github.io/assets/nostalgia/video.mp4
+https://github.com/fred1268/assets/blob/development/nostalgia/video.mp4
 
 screenshot #1
 <p align="center">
